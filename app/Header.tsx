@@ -12,9 +12,9 @@ function Header() {
 				<Link href={'/'} prefetch={false}>
 					<h1 className="font-serif text-4xl flex-1 text-center">
 						<span className="underline decoration-6 decoration-orange-400">
-							Josh's
+							Get It All
 						</span>{' '}
-						News App
+						News
 					</h1>
 				</Link>
 				<div className="flex items-center justify-end space-x-2">
